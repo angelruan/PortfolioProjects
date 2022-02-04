@@ -1,7 +1,11 @@
---select * 
---from 
+-- Welcome to my very first Data Analyst Portfolio Project using SQL doing data exploratin 
+-- In this first exploration project, I will be digging into the covid deaths and covid vaccination and looking at the vacciation percentage, global death rate and etc. 
+
+
+select * 
+from 
 	--[Portfolio 1].[dbo].[CovidDeaths$]
---order 3,4 
+order 3,4 
 
 
 --select * 
